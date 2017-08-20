@@ -1,7 +1,7 @@
 # Front-end-Challenge
-Create a landing page HTML: Capillary(Skillenza).
+Create a landing page for an Event : Skillenza.
 
-This HTML template is based on Materialize, a CSS Framework based on Material Design.
+This website is based on Materialize, a CSS Framework based on Material Design.
 
 ## <b>Screenshots</b>
 
@@ -22,7 +22,7 @@ This HTML template is based on Materialize, a CSS Framework based on Material De
 
 ## <b>Platforms used</b>
 
-HTML, CSS, JS
+HTML, CSS, JS, Bootstrap, Materialize 
 
 ## <b>Resources</b>
 
